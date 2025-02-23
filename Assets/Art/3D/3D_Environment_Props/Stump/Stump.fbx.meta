@@ -3,7 +3,12 @@ guid: 66d19789f959d20428efc18649019618
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stump_Shader
+    second: {fileID: 2100000, guid: 49a563a8ad125d242be9b2c96573cab1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
