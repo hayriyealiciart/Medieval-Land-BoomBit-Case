@@ -9,6 +9,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Water
     second: {fileID: 2100000, guid: f6e3fe44fc1a1804d982b76492f162a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water.003
+    second: {fileID: 2100000, guid: c0ed65163ce79f64abc7b2df0e691828, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
