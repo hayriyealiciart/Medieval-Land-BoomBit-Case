@@ -5058,6 +5058,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: FireFly
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: cc4e4dcc6083f064aae3fc3a2db9cfe6,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 6d1a6117113c9ef4d992af46f9747c05, type: 2}
+    - target: {fileID: 5866666021909216657, guid: cc4e4dcc6083f064aae3fc3a2db9cfe6,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
