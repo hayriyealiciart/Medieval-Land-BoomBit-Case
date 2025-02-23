@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0f13813b13f365048bca974c68c777a7
+guid: 7c3acb1ea5a561b40aca10a83d604902
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: straw
-    second: {fileID: 2100000, guid: e24bb1203f3479840bfe689cb1b5ecab, type: 2}
+      name: Material.016
+    second: {fileID: 2100000, guid: b6fe0787b64263e458f03fac3a791a9e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
